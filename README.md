@@ -1,4 +1,4 @@
 # All-about-Git
 Git Practise tutorial
 <br>
-Author - VAGISH DHUMKETI
+Author - VAGISH (All about Git)
